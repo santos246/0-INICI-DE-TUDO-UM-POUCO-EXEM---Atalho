@@ -2,7 +2,325 @@
 
 
 
-<meta http-equiv="refresh" content="tempo em segundos; URL='url da pagina destino '"/>
+
+
+
+
+
+
+<!------✅🔞😈😇🔴  outra aba  🔴😇😈🔞✅------>
+<a href="
+LINK
+" style="color: #F00" target="_blank">
+OUTRA ABA
+</a>
+
+<img src="/logo.png" width="300">
+
+<body bgcolor="COR"> </body>
+
+ 😇😈FILMESSANTOS😈😇
+
+<--------------------------pop up imediatamente--------------------->
+<html>
+<head>
+<title></title>
+<script languague="javascript">
+function popup(){
+window.open('DICA.txt','popup','width=1820,height=900,scrolling=auto,top=0,left=0')
+}
+</script>
+</head>
+<body onload=popup()>
+</body>
+</html>
+-------------------------POP UP AO CLICAR----------------------------
+<li><a href="#" 
+target="popup" 
+onclick="window.open('LINK','popup','width=1280,height=900'); return false;">
+NOME
+</a></li>
+--------------------------------------------------
+<!---------------------autoplay------------------------->
+<h3>
+🔞PORNO🔞
+</h3><video width="97%" loop="true" autoplay="autoplay" controls muted><source src="
+🔴LINK🔴
+" type="video/mp4" /><source src="
+🔴LINK🔴
+" type="video/ogv" /><source src="
+🔴LINK🔴
+" type="video/webm" /></video>
+<!--------------------------------------------------------->
+<!---------------------autoplay------------------------->
+<h3>
+🔴NOMEDOFILME🔴
+</h3><video width="330px" loop="true" autoplay="autoplay" controls muted><source src="
+🔴LINK🔴
+" type="video/mp4" /><source src="
+🔴LINK🔴
+" type="video/ogv" /><source src="
+🔴LINK🔴
+" type="video/webm" /></video>
+<!--------------------------------------------------------->
+
+<html>
+<body>
+<h1 style="font-size:150%">Um título</h1>
+<p style="font-size:180%">Um parágrafo</p>
+</body>
+</html>
+
+https://www.perfectgirls.net/
+https://www.pornocarioca.com/#lista-de-categorias
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+<button> <a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴 
+" width="310" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO🔴
+</h4><textarea rows="3" cols="30" maxlength="1500">
+SOBRE🔴
+</textarea></button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴 
+" width="310" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO🔴
+</h4><textarea rows="3" cols="30" maxlength="1500">
+SOBRE🔴
+</textarea></button>
+<!---------------------------------------------------->
+
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="345" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO
+</h4><textarea rows="6" cols="37" maxlength="1500">
+SOBRE
+</textarea></button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴 
+" width="345" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO🔴
+</h4><textarea rows="3" cols="35" maxlength="1500">
+SOBRE🔴
+</textarea></button>
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+<!-----------------------" target="_self">------------------------>
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+
+
+
+<html lang="pt-br">
+<head>
+<title>LISTA</title>
+<link rel="sortcut icon" href="https://i.pinimg.com/564x/90/e6/10/90e610327e8d0435eb360dfd08bcea7d.jpg" type="image/gif" />
+</head>
+<body>
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="LISTA">
+<meta name="keywords" content="LISTA">
+<style>
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
+/*Link já visitado*/
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+/*Quando o mouse passa por cima*/
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+/*Link ativo/selecionado*/
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+</style>
+<html>
+<head>
+
+
+<center>
+
+
+
+<a href="
+LINK
+" style="color: #F00" target="_blank">
+OUTRA ABA
+</a>
+
+<img src="/logo.png" width="300">
+
+
+<a href="#" style="color: #F00">teste</a>
+
+
+
+Cor do link
+Azul é a cor padrão para links. Mas você pode alterar as cores dos seus links, inserindo estas tags dentro da tag <body>:
+
+link="cor"
+
+vlink="cor"
+
+Vlink são os "links visitados". Os links mudam de cor quando foram visitados. Se você não quiser que os links visitados mudem de cor, basta atribuir a mesma cor ao links e vlinks.
+
+Exemplo: <body link="green" vlink="green">
+
+
+
+<a href="mailto:seu_endereco_de_email">
+
+
+
+
+<!--------------------------------TXT--------------------------------->
+<br/><textarea rows="10" cols="100" maxlength="1500">
+TEXTO AQUI
+</textarea><BR/>
+
+<marquee> kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk <br></marquee>
+
+
+Marshall Brain
+        Fundador da HowStuffWorks
+Use as seguintes tags assim:
+
+<dl>
+<dt>Marshall Brain
+<dd>Fundador da HowStuffWorks
+</dl>
+
+
+
+
+
+Este texto é <small>pequeno</small>.
+
+Este texto é pequeno.
+
+Este texto é <big>grande</big>.
+
+Este texto é grande.
+<!----<FONT SIZE=+2>Letra maior</FONT>------------->
+
+<video width="400" controls="controls" preload="metadata"><source src="
+LINK
+#t=0.5" type="video/mp4"></video>
+
+
+
+
+
+<center>
+
+<a href="
+LINK
+" target="_blank"><h2>
+OUTRA ABA
+</h2></a>
+
+</center>
+
+<img src="/logo.png" width="300">
+
+
+--------------------------------------------------------------------
+
+<a href="
+LINK
+" target="_self">
+MESMA ABA
+</a>
+<img src="/logo.png" width="300">
+
+-----------------------------------------------
+
+
+
+
+https://www.youtube.com/watch?v=E7vib9-C4nU&ab_channel=PauloMoreno
+FORÇAR ESCREVA SE YOUTUBE
+?sub_confirmation=1
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg?sub_confirmation=1
+
+
+
+<!---_____________________________FOTO__________________________________-->
+https://drive.google.com/uc?export=download&id=LINKDRIVE
+
+https://drive.google.com/uc?export=view&id=CODIGODIVE
+<!---_______________________________DOWNLOADS________________________________-->
+https://docs.google.com/uc?export=download&id=CODIGODIVE
+<!---_______________________bom____VIDEO____________________-->
+https://drive.google.com/uc?export=download&id=1jZLSNPozpyyJLX0QTYddcGPa9j986GOo
+<!---_______________________________________________________________-->
+https://www.youtube.com/watch?v=hxXD1oghL0A&ab_channel=ZetaTech
+<!---_______________________________________________________________-->
+<a href="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" target="_blank"><img src="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" width="25%"></a>
+<!---_______________________________DOWNLOAD __________________________-->
+<a href="/images/visualdicas_logo.png" download="teste_visualdicas">Clique aqui </a>
+
+<!---_______________________________________________________________-->
+
+
+
+<meta http-equiv="refresh" content="5tempo em segundos; URL='url da pagina destino '"/>
 
 
 
@@ -37,7 +355,7 @@ Abra o documento vinculado em um quadro nomeado:
 
 
 
-
+-------foto borda----------------------
 
 <A HREF="
 LINK
@@ -47,18 +365,15 @@ IMAGEM
 
 " target="_self">
 
---------------------------------------------------------------------------
-<a href="#NOME">NOME</a><br/>
+-----------------------------------ancora---------------------------------------
+1º Metes a âncora no sitio que quiseres:
+<a name="ancora" id="ancora"></a>
+Depois o link para ir  ancora será assim:
 
-<div id="NOME" class="div-margin"><p>NOME</p></div>
+<a href="#ancora">ir   ancora </a>
+Se quiseres usar uma ancora noutra página fazes assim:
 
-
-<a href="#l2">Ir para l2</a><br/>
-<a href="#l3">Ir para l3</a><br/>
-
-
-<div id="l2" class="div-margin"><p>Você está na div-l2</p></div>
-<div id="l3" class="div-margin"><p>Você está na div-l3</p></div>
+<a href="ancora.html#ancora">ir   ancora de outra página </a>
 ------------------------------->
 
 
@@ -75,13 +390,13 @@ https://usuariosonline.s12.com.br/
 https://contador.s12.com.br/
 
 <!------------------------M3U8 TMAMANHO E ESSE COM BOTAO----------------------------->
-<button class="button button2"><FONT SIZE=+2>NOME<!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<button class="button button2"><FONT SIZE=+2>NOME</FONT><!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
 <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
 <script src="https://unpkg.com/video.js/dist/video.js"></script>
 <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
 <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
 LINKm3u8
-" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></FONT></button><br></a></center><HR/><HR/>
+" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></button><br></a></center><HR/><HR/>
 
 
 
@@ -110,15 +425,11 @@ BOTAO
 </head>
 <body>
 
-<h2>Set Button Widths</h2>
-
-<p>Use the width property to change the width of the button:</p>
 
 <button class="button button1">250px</button><br>
 <button class="button button2">50%</button><br>
 <button class="button button3">100%</button>
 
-<p><strong>Tip:</strong> Use pixels if you want to set a fixed width and use percent for responsive buttons (e.g. 50% of its parent element). Resize the browser window to see the effect.</p>
 
 </body>
 </html>
@@ -224,6 +535,22 @@ LINK
 
 
 
+<video width="320" height="240" controls>
+<source src="movie.mp4" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+<source src="movie.webm" type="video/webm">
+<object data="movie.mp4" width="320" height="240">
+<embed src="movie.swf" width="320" height="240">
+</object>
+</video>
+
+
+<video controls>
+    <source src="example.mp4" type="video/mp4">
+    <source src="example.webm" type="video/webm">
+    <track kind="subtitles" src="subtitles_en.vtt" srclang="en">
+</video>
+
 
 <video width="400" controls="controls" preload="metadata">
   <source src="https://www.w3schools.com/html/mov_bbb.mp4#t=0.5" type="video/mp4">
@@ -328,10 +655,23 @@ LINK
 <!-----------------------------
 https://megacontador.com.br/
 ----------------------------->
-<!-------------------------------------------------------->
+<!--------------------------ANCORA------------------------------>
 
 
-
+Repare que ao clicar ir para âncora você foi redirecionado à outro ponto desta página. Isto é chamado "ÂNCORA".
+Você pode redirecionar o usuário para qualquer ponto de sua página ou para outro ponto de outra página.
+O código de destino, isto é, o ponto de chegada ao ser clicado é:
+Código: <a name="ancora">
+E o código do comando "ir para" é:
+Código: <a href="#ancora">ir para ancora</a>
+Você pode criar vários pontos, como:
+<a name="ancora2"> e <a href="#ancora2">ir para ancora2</a>
+Para fazer o usuário "Ir para o topo" não é necessário uma âncora como acima, tem um código especial para isto:
+Código: <a href="#top">Ir para o topo</a>
+Para ir à outra página:
+Código: <a href="nomedapagina.html#ancora">ir para ancora</a>
+Utilizando uma imagem como âncora:
+Código: <a href="#ancora"><img src="imagem.jpg"></a>
 
 
 
@@ -899,6 +1239,10 @@ h1 {
 <html>
 <a href="#top"><H3>VOLTAR AO TOPO</H3></a>
 </html>
+
+
+
+
 <html>
 
 
@@ -2109,7 +2453,7 @@ IMAGEM
 <!---------------------------FAIXA AZUL-------------------------------------->
 
 
-<a href="https://www.homehost.com.br/" target="_blank">  "_self
+<a href="https://www.homehost.com.br/" target="_self">
 <div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white">FAIXA AZUL</p></div></a>
 <!-----------------------------------
 <style>
